@@ -1,3 +1,6 @@
-# julls-restaurant-site 
 mkdir css js images
-touch index.html menu.html contact.html css/style.css js/script.js
+echo "" > index.html
+echo "" > menu.html
+echo "" > contact.html
+echo "" > css/style.css
+echo "" > js/script.js
